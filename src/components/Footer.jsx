@@ -51,7 +51,7 @@ const Footer = () => {
           <a href="/careers">Careers</a>
         </li>
         <li data-aos="fade-right" data-aos-delay="450">
-          <a href="contact">Contact</a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
     </div>
